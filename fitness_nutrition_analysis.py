@@ -192,13 +192,6 @@ class FeatureEngineer:
     
     def create_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """Generate all engineered features"""
-        # BMI
-        df['BMI'] = df.apply(
-            lambda row: row['Weight (kg)'] / (row['Height (m)'] ** 2) 
-            if row['Height (m)'] > 0 else np.nan,
-            axis=1
-        )
-        
         # Age Group
         df['Age_Group'] = pd.cut(
             df['Age'],
@@ -216,7 +209,8 @@ class FeatureEngineer:
             axis=1
         )
         
-        print(f"✓ Created 4 new features: BMI, Age_Group, Session_Duration_Minutes, Calories_Burned_Per_Minute")
+        print(f"✓ Created 3 new features: Age_Group, Session_Duration_Minutes, Calories_Burned_Per_Minute")
+        print(f"✓ Using existing BMI column from dataset")
         
         return df
 

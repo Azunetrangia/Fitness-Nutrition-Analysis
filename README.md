@@ -40,11 +40,12 @@ Dự án này nhằm phân tích và trực quan hóa dữ liệu về hoạt đ
 - Xử lý outliers bằng phương pháp IQR (Interquartile Range)
 
 #### **Bước 3: Feature Engineering**
-Tạo 4 features mới:
-- `BMI`: Chỉ số khối cơ thể = Weight / (Height²)
+Tạo 3 features mới:
 - `Age_Group`: Phân nhóm tuổi (18-25, 26-35, 36-45, 46-55, 55+)
 - `Session_Duration_Minutes`: Chuyển đổi giờ sang phút
 - `Calories_Burned_Per_Minute`: Cường độ tập = Calories / Duration
+
+**Lưu ý**: Dataset đã có sẵn cột `BMI` (Body Mass Index), nên không cần tính toán lại.
 
 #### **Bước 4: Phân Tích Dữ Liệu**
 - Tính toán correlation matrix
