@@ -160,26 +160,24 @@ Chương trình sẽ:
 
 ![Fitness Insights Dashboard](final_output/charts/fitness_insights_dashboard.png)
 
-**Bao gồm 3 biểu đồ:**
+**Bao gồm 2 biểu đồ:**
 
 1️⃣ **Workout Intensity Ranking** (Horizontal Bar Chart)
 - Cường độ workout tính bằng calories/phút
-- **HIIT**: 21.65 cal/min (cao nhất)
+- **HIIT**: 21.65 cal/min (cao nhất) 
 - **Strength**: 17.73 cal/min
 - **Cardio**: 15.75 cal/min
 - **Yoga**: 11.79 cal/min (thấp nhất)
+- Đường median màu xanh đậm cho thấy giá trị trung vị
+- Màu gradient từ vàng (thấp) đến xanh lá (cao) giúp dễ nhận biết
 
 2️⃣ **BMI Distribution by Gender** (Violin Plot)
-- Nam: BMI trung bình 25.0
-- Nữ: BMI trung bình 25.0
-- Phân bố tương đồng giữa 2 giới tính
-
-3️⃣ **Workout × Gender Performance** (Heatmap)
-- Xác nhận hiệu suất tương đương giữa nam và nữ
-- HIIT: ~1,630 cal cho cả 2 giới
-- Strength: ~1,330 cal
-- Cardio: ~1,180 cal
-- Yoga: ~885 cal
+- Phân bố BMI theo giới tính với violin plot
+- **Nam**: BMI trung bình 25.0 (khoảng từ 12-50)
+- **Nữ**: BMI trung bình 24.9 (khoảng từ 12-50)
+- Phân bố hoàn toàn tương đồng giữa 2 giới tính
+- Đường ngang trong violin: median (trung vị)
+- Độ rộng violin: mật độ dữ liệu ở mỗi mức BMI
 
 ### 📊 Các Chỉ Số Chính
 

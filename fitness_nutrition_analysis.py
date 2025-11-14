@@ -374,14 +374,13 @@ class Visualizer:
         self.output_manager.save_plot(fig, filename)
     
     def create_advanced_insights_dashboard(self, df: pd.DataFrame, grouped_stats: Dict[str, pd.DataFrame], filename: str) -> None:
-        """Create fitness insights dashboard with business-oriented visualizations"""
-        fig = plt.figure(figsize=(18, 10))
-        gs = fig.add_gridspec(2, 2, hspace=0.35, wspace=0.3)
-        fig.suptitle('Fitness Insights Dashboard', fontsize=22, fontweight='bold', y=0.98)
+        """Create fitness insights dashboard with 2 practical visualizations"""
+        fig, axes = plt.subplots(1, 2, figsize=(16, 6))
+        fig.suptitle('Fitness Insights Dashboard', fontsize=20, fontweight='bold', y=0.98)
         
-        # 1. ENHANCED Workout Intensity Ranking (Top performers with values)
-        ax1 = fig.add_subplot(gs[0, :])  # Span full width for emphasis
-        intensity = grouped_stats['intensity_ranking'].head(7).sort_values('mean')
+        # 1. Workout Intensity Ranking
+        ax1 = axes[0]
+        intensity = grouped_stats['intensity_ranking'].sort_values('mean')
         
         # Create gradient colors from low to high
         colors = plt.cm.RdYlGn(np.linspace(0.3, 0.9, len(intensity)))
@@ -396,8 +395,8 @@ class Visualizer:
                     color='darkblue', linewidth=2, alpha=0.7)
         
         ax1.set_xlabel('Calories Burned per Minute', fontsize=12, fontweight='bold')
-        ax1.set_title('🔥 Workout Intensity Ranking - Calories Burned per Minute', 
-                     fontsize=14, fontweight='bold', pad=15)
+        ax1.set_title('Workout Intensity Ranking - Calories Burned per Minute', 
+                     fontsize=13, fontweight='bold', pad=15)
         ax1.grid(axis='x', alpha=0.4, linestyle='--')
         ax1.set_xlim(0, max(intensity['mean']) * 1.15)
         
@@ -406,8 +405,8 @@ class Visualizer:
         legend_elements = [Line2D([0], [0], color='darkblue', linewidth=2, label='Median')]
         ax1.legend(handles=legend_elements, loc='lower right', fontsize=10)
         
-        # 2. BMI Distribution by Gender (Enhanced with stats)
-        ax2 = fig.add_subplot(gs[1, 0])
+        # 2. BMI Distribution by Gender
+        ax2 = axes[1]
         violin_parts = ax2.violinplot([df[df['Gender']=='Female']['BMI'].dropna(),
                                        df[df['Gender']=='Male']['BMI'].dropna()],
                                       positions=[0, 1], showmeans=True, showmedians=True)
@@ -421,7 +420,7 @@ class Visualizer:
         ax2.set_xticks([0, 1])
         ax2.set_xticklabels(['Female', 'Male'], fontsize=11)
         ax2.set_ylabel('BMI', fontsize=11, fontweight='bold')
-        ax2.set_title('📊 BMI Distribution by Gender', fontsize=13, fontweight='bold')
+        ax2.set_title('BMI Distribution by Gender', fontsize=13, fontweight='bold')
         ax2.grid(axis='y', alpha=0.3)
         
         # Add mean values as text
@@ -430,18 +429,9 @@ class Visualizer:
         ax2.text(0, female_mean + 2, f'μ={female_mean:.1f}', ha='center', fontsize=10, fontweight='bold')
         ax2.text(1, male_mean + 2, f'μ={male_mean:.1f}', ha='center', fontsize=10, fontweight='bold')
         
-        # 3. Workout Type × Gender Heatmap
-        ax3 = fig.add_subplot(gs[1, 1])
-        interaction_data = grouped_stats['workout_gender_interaction']
-        sns.heatmap(interaction_data.T, annot=True, fmt='.0f', cmap='YlOrRd', ax=ax3, 
-                   cbar_kws={'label': 'Avg Calories'}, linewidths=1, linecolor='white')
-        ax3.set_title('🔥 Workout × Gender Performance', fontsize=13, fontweight='bold')
-        ax3.set_xlabel('Workout Type', fontsize=11, fontweight='bold')
-        ax3.set_ylabel('Gender', fontsize=11, fontweight='bold')
-        plt.setp(ax3.get_xticklabels(), rotation=45, ha='right')
-        
+        plt.tight_layout()
         self.output_manager.save_plot(fig, filename)
-
+        
 
 class FitnessDataAnalyzer:
     """Main orchestrator class that coordinates the entire analysis pipeline"""
