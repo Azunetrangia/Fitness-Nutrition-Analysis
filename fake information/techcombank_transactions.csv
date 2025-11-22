@@ -1,0 +1,501 @@
+﻿TransactionID,CustomerID,TransactionTimestamp,Amount,TransactionType,Channel,CustomerAge,CustomerOccupation,CustomerSegment,PaymentMethod,TransactionStatus,Location,CustomerTenure
+TX1002000,TCB10113,2024-11-12 22:32:51.601122,2727000,Thanh toán hóa đơn,Mobile App,33,Kỹ sư,Gold,QR Code,Thành công,Hải Phòng,13
+TX1002001,TCB10006,2024-11-13 01:12:07.663590,100000,Sức khỏe,Mobile App,55,Sinh viên,Standard,Chuyển khoản (App),Thành công,Cần Thơ,8
+TX1002002,TCB10069,2024-11-14 08:12:23.487746,4483000,Thanh toán hóa đơn,Mobile App,46,Giáo viên,Gold,Chuyển khoản (App),Thành công,Đồng Nai,15
+TX1002003,TCB10031,2024-11-14 10:01:47.404539,1460000,Thanh toán hóa đơn,POS,50,Sinh viên,Gold,Thẻ tín dụng,Thành công,Bình Dương,3
+TX1002004,TCB10094,2024-11-14 16:14:15.232477,189000,Giải trí,Mobile App,43,Lập trình viên,Priority,QR Code,Thành công,Hải Phòng,22
+TX1002005,TCB10069,2024-11-18 05:34:43.188555,1935000,Ăn uống,Tại quầy (OTC),46,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,15
+TX1002006,TCB10002,2024-11-19 06:45:01.898552,5257000,Thanh toán hóa đơn,POS,63,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,27
+TX1002007,TCB10132,2024-11-19 09:00:58.147425,5838000,Thanh toán hóa đơn,POS,49,Lập trình viên,Priority,QR Code,Thành công,Cần Thơ,20
+TX1002008,TCB10098,2024-11-19 11:29:36.735012,100000,Giáo dục,ATM,19,Nội trợ,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,1
+TX1002009,TCB10112,2024-11-19 13:56:22.953392,199000,Ăn uống,Mobile App,38,Bác sĩ,Standard,QR Code,Thành công,TP. Hồ Chí Minh,5
+TX1002010,TCB10018,2024-11-20 03:23:55.925542,8503000,Mua sắm,Mobile App,42,Sinh viên,Gold,Chuyển khoản (App),Thành công,Cần Thơ,12
+TX1002011,TCB10004,2024-11-20 16:26:30.448360,1147000,Thanh toán hóa đơn,Mobile App,28,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,7
+TX1002012,TCB10086,2024-11-23 05:27:14.757324,12219000,Mua sắm,Mobile App,38,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,Hà Nội,5
+TX1002013,TCB10107,2024-11-23 06:08:49.384054,149000,Ăn uống,Mobile App,49,Lập trình viên,Priority,QR Code,Thành công,Đà Nẵng,31
+TX1002014,TCB10072,2024-11-23 15:31:15.567038,15186000,Mua sắm,Mobile App,56,Giáo viên,Gold,QR Code,Thành công,Bình Dương,27
+TX1002015,TCB10103,2024-11-24 10:56:03.805366,2261000,Ăn uống,Internet Banking,55,Lập trình viên,Gold,Chuyển khoản (App),Thành công,Bình Dương,33
+TX1002016,TCB10135,2024-11-25 05:28:09.271312,8338000,Thanh toán hóa đơn,Mobile App,58,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,8
+TX1002017,TCB10091,2024-11-25 12:57:41.306110,3214000,Thanh toán hóa đơn,Mobile App,31,Giáo viên,Standard,Chuyển khoản (App),Thất bại,Bình Dương,1
+TX1002018,TCB10025,2024-11-29 01:06:24.839476,683000,Ăn uống,POS,33,Nội trợ,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,5
+TX1002019,TCB10087,2024-11-29 06:26:08.968574,694000,Ăn uống,Internet Banking,28,Giám đốc,Standard,Chuyển khoản (App),Thành công,Đà Nẵng,4
+TX1002020,TCB10126,2024-11-29 13:09:22.576985,11948000,Mua sắm,Internet Banking,41,Lập trình viên,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,16
+TX1002021,TCB10002,2024-11-30 01:48:00.546615,87533000,Chuyển khoản,Mobile App,63,Bác sĩ,Gold,QR Code,Thành công,Đồng Nai,27
+TX1002022,TCB10147,2024-11-30 18:14:31.475926,30772000,Mua sắm,Internet Banking,61,Giáo viên,Priority,Chuyển khoản (App),Thất bại,Hà Nội,15
+TX1002023,TCB10076,2024-12-02 03:35:19.135891,47755000,Du lịch,Mobile App,51,Kinh doanh tự do,Gold,QR Code,Thành công,Hải Phòng,23
+TX1002024,TCB10010,2024-12-04 01:27:33.911117,1819000,Ăn uống,POS,50,Kỹ sư,Gold,Thẻ tín dụng,Thành công,Quảng Ninh,16
+TX1002025,TCB10106,2024-12-04 06:39:13.888514,25575000,Mua sắm,Mobile App,44,Nhân viên văn phòng,Priority,Chuyển khoản (App),Thành công,Đà Nẵng,18
+TX1002026,TCB10086,2024-12-04 16:27:28.293588,24071000,Chuyển khoản,POS,38,Nhân viên văn phòng,Standard,Thẻ tín dụng,Thành công,Hà Nội,5
+TX1002027,TCB10126,2024-12-05 10:26:07.631565,62992000,Chuyển khoản,Internet Banking,41,Lập trình viên,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,16
+TX1002028,TCB10067,2024-12-05 18:46:35.544364,467000,Di chuyển,POS,19,Nhân viên văn phòng,Standard,Thẻ tín dụng,Thành công,Hà Nội,1
+TX1002029,TCB10047,2024-12-06 01:58:43.135529,1172000,Ăn uống,Mobile App,59,Giám đốc,Priority,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,9
+TX1002030,TCB10036,2024-12-06 18:18:44.970279,2120000,Thanh toán hóa đơn,Mobile App,46,Nội trợ,Priority,Chuyển khoản (App),Thành công,Đồng Nai,26
+TX1002031,TCB10132,2024-12-07 18:56:09.345420,387000,Di chuyển,Mobile App,49,Lập trình viên,Priority,QR Code,Thành công,Cần Thơ,20
+TX1002032,TCB10137,2024-12-08 14:31:15.423295,450000,Thanh toán hóa đơn,Mobile App,41,Nhân viên văn phòng,Gold,Chuyển khoản (App),Thành công,Cần Thơ,21
+TX1002033,TCB10146,2024-12-08 21:44:49.293655,466000,Di chuyển,Internet Banking,61,Giám đốc,Gold,Thẻ tín dụng,Thất bại,TP. Hồ Chí Minh,22
+TX1002034,TCB10122,2024-12-10 05:14:23.868046,300000,Giải trí,Mobile App,32,Giáo viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,14
+TX1002035,TCB10057,2024-12-10 09:20:39.533947,2575000,Mua sắm,ATM,18,Kỹ sư,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,1
+TX1002036,TCB10056,2024-12-10 17:51:22.401252,4926000,Du lịch,Mobile App,34,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,4
+TX1002037,TCB10096,2024-12-11 06:02:30.228389,288000,Di chuyển,POS,55,Giáo viên,Gold,QR Code,Thành công,Hải Phòng,34
+TX1002038,TCB10101,2024-12-11 06:42:38.614684,141288000,Chuyển khoản,Mobile App,41,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,7
+TX1002039,TCB10065,2024-12-11 11:55:45.786846,629000,Di chuyển,Mobile App,49,Bác sĩ,Priority,Chuyển khoản (App),Thành công,Đà Nẵng,20
+TX1002040,TCB10102,2024-12-11 13:19:33.650360,299000,Giải trí,POS,37,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,9
+TX1002041,TCB10099,2024-12-12 02:01:55.126566,13079000,Mua sắm,ATM,51,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Bình Dương,17
+TX1002042,TCB10013,2024-12-13 00:18:26.344674,203000,Giải trí,ATM,47,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,26
+TX1002043,TCB10024,2024-12-13 02:16:04.660986,56916000,Chuyển khoản,Tại quầy (OTC),54,Lập trình viên,Priority,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,25
+TX1002044,TCB10116,2024-12-14 23:47:50.183233,8470000,Chuyển khoản,Tại quầy (OTC),53,Sinh viên,Priority,Thẻ tín dụng,Thành công,Hà Nội,18
+TX1002045,TCB10093,2024-12-15 02:20:04.328311,714000,Ăn uống,Tại quầy (OTC),22,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,1
+TX1002046,TCB10075,2024-12-16 04:21:43.635743,2120000,Ăn uống,ATM,51,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,27
+TX1002047,TCB10033,2024-12-16 16:14:09.107017,25866000,Du lịch,Mobile App,30,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,8
+TX1002048,TCB10124,2024-12-17 03:37:44.587038,20535000,Chuyển khoản,ATM,34,Nhân viên văn phòng,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,10
+TX1002049,TCB10119,2024-12-18 00:09:47.245252,463000,Di chuyển,Mobile App,43,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,Đồng Nai,18
+TX1002050,TCB10016,2024-12-18 08:47:05.207144,16884000,Mua sắm,Mobile App,34,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Hải Phòng,6
+TX1002051,TCB10063,2024-12-18 11:07:04.247611,25949000,Chuyển khoản,Mobile App,52,Lập trình viên,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,11
+TX1002052,TCB10004,2024-12-19 09:21:34.625576,75534000,Chuyển khoản,Mobile App,28,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,7
+TX1002053,TCB10111,2024-12-19 17:26:14.347400,26472000,Mua sắm,Mobile App,34,Giám đốc,Priority,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,10
+TX1002054,TCB10124,2024-12-20 12:02:30.196486,121668000,Chuyển khoản,ATM,34,Nhân viên văn phòng,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,10
+TX1002055,TCB10146,2024-12-20 12:28:48.742498,144000,Giải trí,Mobile App,61,Giám đốc,Gold,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,22
+TX1002056,TCB10064,2024-12-21 03:19:45.295739,287000,Giáo dục,Mobile App,64,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,6
+TX1002057,TCB10110,2024-12-21 05:29:08.495586,17441000,Mua sắm,Mobile App,34,Kinh doanh tự do,Gold,QR Code,Thành công,Hà Nội,7
+TX1002058,TCB10129,2024-12-21 14:25:37.441139,441000,Mua sắm,Mobile App,62,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,Cần Thơ,1
+TX1002059,TCB10122,2024-12-21 18:53:27.616397,9257000,Mua sắm,Mobile App,32,Giáo viên,Priority,QR Code,Thành công,Hải Phòng,14
+TX1002060,TCB10064,2024-12-22 11:43:34.380516,3236000,Ăn uống,Mobile App,64,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Đồng Nai,6
+TX1002061,TCB10055,2024-12-23 19:24:14.085471,250000,Sức khỏe,POS,34,Lập trình viên,Priority,QR Code,Thành công,Quảng Ninh,15
+TX1002062,TCB10128,2024-12-25 08:28:56.727558,4848000,Thanh toán hóa đơn,POS,43,Giáo viên,Gold,Thẻ tín dụng,Thành công,Quảng Ninh,8
+TX1002063,TCB10028,2024-12-25 10:34:03.692363,1612000,Ăn uống,Mobile App,23,Giám đốc,Standard,QR Code,Thành công,Quảng Ninh,1
+TX1002064,TCB10020,2024-12-26 18:00:25.228798,100000,Giải trí,Mobile App,59,Giám đốc,Standard,QR Code,Thành công,Hải Phòng,3
+TX1002065,TCB10011,2024-12-27 14:40:26.795210,15232000,Mua sắm,Mobile App,56,Nhân viên văn phòng,Gold,Chuyển khoản (App),Thành công,Bình Dương,37
+TX1002066,TCB10019,2024-12-28 08:47:50.693596,357000,Di chuyển,Mobile App,41,Kinh doanh tự do,Standard,QR Code,Thành công,Đồng Nai,2
+TX1002067,TCB10071,2024-12-28 18:28:48.363237,5542000,Mua sắm,Mobile App,56,Giám đốc,Priority,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,31
+TX1002068,TCB10059,2024-12-29 11:58:19.197781,228000,Di chuyển,Internet Banking,29,Giáo viên,Gold,Thẻ tín dụng,Thành công,Đà Nẵng,7
+TX1002069,TCB10040,2024-12-29 13:06:15.712489,1165000,Thanh toán hóa đơn,POS,51,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Hà Nội,27
+TX1002070,TCB10138,2024-12-29 19:48:50.761741,49221000,Chuyển khoản,Mobile App,52,Lập trình viên,Priority,QR Code,Thành công,Cần Thơ,18
+TX1002071,TCB10133,2024-12-30 06:09:41.334666,579000,Ăn uống,Mobile App,51,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,13
+TX1002072,TCB10145,2024-12-30 17:31:47.091112,90000,Di chuyển,POS,55,Bác sĩ,Priority,QR Code,Thất bại,Bình Dương,14
+TX1002073,TCB10091,2024-12-31 03:56:26.675740,100000,Sức khỏe,Tại quầy (OTC),31,Giáo viên,Standard,Thẻ ghi nợ,Thành công,Bình Dương,1
+TX1002074,TCB10076,2025-01-01 04:05:02.317619,3130000,Thanh toán hóa đơn,Tại quầy (OTC),51,Kinh doanh tự do,Gold,Thẻ ghi nợ,Thành công,Hải Phòng,23
+TX1002075,TCB10110,2025-01-02 19:15:00.580988,170000,Giáo dục,POS,34,Kinh doanh tự do,Gold,QR Code,Thành công,Hà Nội,7
+TX1002076,TCB10104,2025-01-03 04:24:12.703267,2364000,Thanh toán hóa đơn,Internet Banking,30,Nội trợ,Priority,Chuyển khoản (App),Thành công,Cần Thơ,1
+TX1002077,TCB10110,2025-01-03 06:05:46.628648,263000,Di chuyển,POS,34,Kinh doanh tự do,Gold,QR Code,Thành công,Hà Nội,7
+TX1002078,TCB10139,2025-01-03 14:15:58.753800,794000,Ăn uống,Internet Banking,39,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Quảng Ninh,14
+TX1002079,TCB10058,2025-01-04 08:57:06.372580,100000,Giáo dục,POS,63,Sinh viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,41
+TX1002080,TCB10139,2025-01-05 01:49:10.909995,1193000,Di chuyển,Mobile App,39,Nhân viên văn phòng,Priority,QR Code,Thành công,Quảng Ninh,14
+TX1002081,TCB10001,2025-01-05 05:25:42.009823,10371000,Mua sắm,Internet Banking,45,Sinh viên,Standard,Chuyển khoản (App),Thành công,Hải Phòng,8
+TX1002082,TCB10111,2025-01-05 05:44:50.992389,7292000,Thanh toán hóa đơn,Mobile App,34,Giám đốc,Priority,QR Code,Thành công,TP. Hồ Chí Minh,10
+TX1002083,TCB10015,2025-01-06 09:01:02.411517,2003000,Mua sắm,Tại quầy (OTC),43,Kỹ sư,Gold,Thẻ tín dụng,Thành công,Bình Dương,20
+TX1002084,TCB10086,2025-01-06 12:37:26.464523,235000,Di chuyển,POS,38,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,Hà Nội,5
+TX1002085,TCB10042,2025-01-09 05:57:57.770546,2971000,Mua sắm,Mobile App,43,Nội trợ,Gold,Chuyển khoản (App),Thành công,Đồng Nai,4
+TX1002086,TCB10125,2025-01-09 05:58:31.947626,39366000,Chuyển khoản,Mobile App,21,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Bình Dương,3
+TX1002087,TCB10075,2025-01-09 07:43:02.479807,68667000,Du lịch,Internet Banking,51,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,27
+TX1002088,TCB10081,2025-01-09 19:49:51.421656,28936000,Chuyển khoản,Mobile App,31,Bác sĩ,Standard,Chuyển khoản (App),Thành công,Bình Dương,1
+TX1002089,TCB10018,2025-01-10 11:32:06.122056,70111000,Du lịch,Mobile App,42,Sinh viên,Gold,Chuyển khoản (App),Thất bại,Cần Thơ,12
+TX1002090,TCB10109,2025-01-10 22:56:44.205100,304000,Di chuyển,Mobile App,26,Sinh viên,Standard,Chuyển khoản (App),Thành công,Đà Nẵng,8
+TX1002091,TCB10102,2025-01-11 05:56:55.265988,75116000,Du lịch,Mobile App,37,Kỹ sư,Priority,QR Code,Thành công,Đồng Nai,9
+TX1002092,TCB10109,2025-01-11 09:25:09.972200,12775000,Mua sắm,Tại quầy (OTC),26,Sinh viên,Standard,QR Code,Thành công,Đà Nẵng,8
+TX1002093,TCB10136,2025-01-11 12:45:46.341401,883000,Ăn uống,Mobile App,25,Kỹ sư,Standard,QR Code,Thành công,TP. Hồ Chí Minh,3
+TX1002094,TCB10138,2025-01-11 13:00:27.556290,2308000,Mua sắm,POS,52,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Cần Thơ,18
+TX1002095,TCB10050,2025-01-12 11:43:34.522002,13868000,Thanh toán hóa đơn,Internet Banking,38,Giáo viên,Priority,Thẻ tín dụng,Thành công,Quảng Ninh,12
+TX1002096,TCB10059,2025-01-12 12:59:53.470077,33000,Di chuyển,Internet Banking,29,Giáo viên,Gold,QR Code,Thành công,Đà Nẵng,7
+TX1002097,TCB10080,2025-01-12 22:26:44.596996,37248000,Du lịch,Internet Banking,60,Kỹ sư,Gold,QR Code,Thành công,TP. Hồ Chí Minh,34
+TX1002098,TCB10079,2025-01-13 21:07:02.471466,277000,Giáo dục,Internet Banking,44,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Bình Dương,5
+TX1002099,TCB10056,2025-01-14 03:25:37.168390,248000,Di chuyển,POS,34,Nhân viên văn phòng,Standard,QR Code,Thành công,TP. Hồ Chí Minh,4
+TX1002100,TCB10024,2025-01-15 03:09:33.487113,775000,Di chuyển,Mobile App,54,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,25
+TX1002101,TCB10150,2025-01-15 17:35:07.989840,134000,Giáo dục,ATM,52,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,21
+TX1002102,TCB10021,2025-01-15 19:13:17.928821,4751000,Thanh toán hóa đơn,Mobile App,60,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,10
+TX1002103,TCB10101,2025-01-15 22:58:46.553130,17128000,Mua sắm,POS,41,Kinh doanh tự do,Priority,QR Code,Thành công,Đà Nẵng,7
+TX1002104,TCB10038,2025-01-16 08:47:05.562945,1904000,Ăn uống,ATM,38,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,14
+TX1002105,TCB10064,2025-01-16 10:05:09.062082,18820000,Mua sắm,ATM,64,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,6
+TX1002106,TCB10135,2025-01-17 06:46:46.349537,192443000,Chuyển khoản,Mobile App,58,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,8
+TX1002107,TCB10026,2025-01-18 16:12:14.421883,4652000,Mua sắm,Mobile App,20,Bác sĩ,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,1
+TX1002108,TCB10092,2025-01-19 08:32:19.776433,5555000,Ăn uống,POS,29,Kinh doanh tự do,Priority,Thẻ tín dụng,Thành công,Hải Phòng,7
+TX1002109,TCB10049,2025-01-19 20:16:58.315608,19144000,Mua sắm,Mobile App,59,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,31
+TX1002110,TCB10123,2025-01-20 19:18:37.345010,4896000,Mua sắm,Mobile App,34,Nội trợ,Gold,Chuyển khoản (App),Thành công,Đà Nẵng,5
+TX1002111,TCB10104,2025-01-21 11:36:12.282749,232000,Giáo dục,POS,30,Nội trợ,Priority,QR Code,Thành công,Cần Thơ,1
+TX1002112,TCB10002,2025-01-21 16:44:15.553362,25224000,Chuyển khoản,ATM,63,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,27
+TX1002113,TCB10139,2025-01-25 02:12:39.917495,10799000,Thanh toán hóa đơn,Mobile App,39,Nhân viên văn phòng,Priority,QR Code,Thành công,Quảng Ninh,14
+TX1002114,TCB10092,2025-01-25 22:50:52.959500,8928000,Mua sắm,Mobile App,29,Kinh doanh tự do,Priority,QR Code,Thành công,Hải Phòng,7
+TX1002115,TCB10032,2025-01-26 08:40:56.976985,67000,Di chuyển,Mobile App,57,Giám đốc,Priority,QR Code,Thành công,TP. Hồ Chí Minh,12
+TX1002116,TCB10100,2025-01-26 18:24:07.848667,800000,Ăn uống,POS,62,Giáo viên,Standard,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,5
+TX1002117,TCB10072,2025-01-26 22:27:47.641676,136000,Sức khỏe,Internet Banking,56,Giáo viên,Gold,Chuyển khoản (App),Thành công,Bình Dương,27
+TX1002118,TCB10142,2025-01-26 23:20:46.583668,2147000,Thanh toán hóa đơn,Mobile App,53,Lập trình viên,Priority,QR Code,Thành công,Quảng Ninh,31
+TX1002119,TCB10116,2025-01-28 06:43:21.576115,26190000,Mua sắm,POS,53,Sinh viên,Priority,QR Code,Thành công,Hà Nội,18
+TX1002120,TCB10008,2025-01-29 08:48:59.130319,149000,Giáo dục,Internet Banking,53,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,11
+TX1002121,TCB10003,2025-01-29 20:50:14.789360,125000,Giáo dục,ATM,36,Lập trình viên,Gold,Thẻ ghi nợ,Thành công,Hà Nội,11
+TX1002122,TCB10066,2025-01-30 06:37:51.232463,6393000,Mua sắm,Internet Banking,60,Sinh viên,Gold,Chuyển khoản (App),Thất bại,TP. Hồ Chí Minh,26
+TX1002123,TCB10002,2025-01-30 15:54:43.365436,116000,Giáo dục,POS,63,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,27
+TX1002124,TCB10045,2025-02-01 12:24:47.103051,171000,Giáo dục,Mobile App,44,Nhân viên văn phòng,Gold,QR Code,Thành công,Cần Thơ,21
+TX1002125,TCB10018,2025-02-02 02:56:33.572950,2935000,Ăn uống,ATM,42,Sinh viên,Gold,Thẻ ghi nợ,Thành công,Cần Thơ,12
+TX1002126,TCB10002,2025-02-03 12:39:40.287562,19480000,Mua sắm,Tại quầy (OTC),63,Bác sĩ,Gold,Thẻ tín dụng,Thành công,Đồng Nai,27
+TX1002127,TCB10100,2025-02-05 21:04:20.238243,1150000,Thanh toán hóa đơn,POS,62,Giáo viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,5
+TX1002128,TCB10079,2025-02-07 18:50:07.332617,273000,Giáo dục,Mobile App,44,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Bình Dương,5
+TX1002129,TCB10004,2025-02-08 07:21:31.406853,58950000,Du lịch,POS,28,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,7
+TX1002130,TCB10142,2025-02-09 16:13:33.497904,21486000,Du lịch,Tại quầy (OTC),53,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Quảng Ninh,31
+TX1002131,TCB10018,2025-02-10 15:20:48.729003,7357000,Thanh toán hóa đơn,POS,42,Sinh viên,Gold,QR Code,Thành công,Cần Thơ,12
+TX1002132,TCB10035,2025-02-10 23:05:28.071690,1625000,Thanh toán hóa đơn,POS,21,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,Cần Thơ,2
+TX1002133,TCB10105,2025-02-11 19:39:55.029636,233000,Di chuyển,POS,41,Nhân viên văn phòng,Gold,Thẻ tín dụng,Thành công,Đà Nẵng,1
+TX1002134,TCB10103,2025-02-12 15:19:17.012940,16448000,Mua sắm,POS,55,Lập trình viên,Gold,Thẻ ghi nợ,Thành công,Bình Dương,33
+TX1002135,TCB10133,2025-02-13 09:31:29.897016,248000,Sức khỏe,POS,51,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Đà Nẵng,13
+TX1002136,TCB10135,2025-02-13 15:32:06.286697,6096000,Thanh toán hóa đơn,Mobile App,58,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,8
+TX1002137,TCB10006,2025-02-14 06:37:55.803918,1558000,Ăn uống,Mobile App,55,Sinh viên,Standard,QR Code,Thành công,Cần Thơ,8
+TX1002138,TCB10031,2025-02-14 15:33:11.731518,133000,Ăn uống,POS,50,Sinh viên,Gold,Thẻ tín dụng,Thành công,Bình Dương,3
+TX1002139,TCB10091,2025-02-15 05:53:15.440623,271000,Di chuyển,Internet Banking,31,Giáo viên,Standard,Thẻ tín dụng,Thành công,Bình Dương,1
+TX1002140,TCB10137,2025-02-16 02:22:01.246264,53893000,Chuyển khoản,Mobile App,41,Nhân viên văn phòng,Gold,Thẻ ghi nợ,Thành công,Cần Thơ,21
+TX1002141,TCB10099,2025-02-16 23:08:13.148170,98275000,Chuyển khoản,Mobile App,51,Nội trợ,Gold,QR Code,Thành công,Bình Dương,17
+TX1002142,TCB10090,2025-02-17 14:28:47.012794,58510000,Du lịch,Mobile App,57,Giáo viên,Priority,Thẻ ghi nợ,Thành công,Bình Dương,20
+TX1002143,TCB10144,2025-02-18 20:14:48.872160,8450000,Chuyển khoản,Mobile App,32,Lập trình viên,Gold,Thẻ ghi nợ,Thành công,Cần Thơ,6
+TX1002144,TCB10043,2025-02-20 04:48:50.602279,100000,Giải trí,ATM,58,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,12
+TX1002145,TCB10073,2025-02-20 23:15:23.965318,105000,Giải trí,Mobile App,21,Kinh doanh tự do,Gold,Chuyển khoản (App),Thành công,Đà Nẵng,3
+TX1002146,TCB10112,2025-02-21 02:44:56.136900,100000,Giải trí,Mobile App,38,Bác sĩ,Standard,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,5
+TX1002147,TCB10116,2025-02-22 05:29:16.310813,218000,Sức khỏe,Internet Banking,53,Sinh viên,Priority,Thẻ tín dụng,Thành công,Hà Nội,18
+TX1002148,TCB10010,2025-02-22 18:15:27.362635,1757000,Thanh toán hóa đơn,Mobile App,50,Kỹ sư,Gold,QR Code,Thành công,Quảng Ninh,16
+TX1002149,TCB10040,2025-02-23 01:22:51.852159,18903000,Mua sắm,POS,51,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Hà Nội,27
+TX1002150,TCB10081,2025-02-23 06:59:55.491187,2437000,Mua sắm,Mobile App,31,Bác sĩ,Standard,Thẻ ghi nợ,Thành công,Bình Dương,1
+TX1002151,TCB10055,2025-02-25 21:47:42.294659,249000,Giáo dục,Mobile App,34,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Quảng Ninh,15
+TX1002152,TCB10077,2025-02-26 02:14:31.730229,1094000,Mua sắm,Mobile App,29,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,5
+TX1002153,TCB10106,2025-02-27 05:52:57.503684,11594000,Mua sắm,POS,44,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,18
+TX1002154,TCB10099,2025-02-27 22:38:14.518054,6288000,Thanh toán hóa đơn,Tại quầy (OTC),51,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Bình Dương,17
+TX1002155,TCB10065,2025-02-28 03:55:33.431702,6187000,Thanh toán hóa đơn,Mobile App,49,Bác sĩ,Priority,Chuyển khoản (App),Thành công,Đà Nẵng,20
+TX1002156,TCB10090,2025-02-28 13:16:28.413656,957000,Ăn uống,POS,57,Giáo viên,Priority,Thẻ tín dụng,Thành công,Bình Dương,20
+TX1002157,TCB10022,2025-02-28 20:37:09.269757,2603000,Thanh toán hóa đơn,Mobile App,60,Kinh doanh tự do,Priority,QR Code,Thành công,Đồng Nai,16
+TX1002158,TCB10019,2025-03-02 06:16:47.861680,14227000,Mua sắm,Mobile App,41,Kinh doanh tự do,Standard,QR Code,Thành công,Đồng Nai,2
+TX1002159,TCB10115,2025-03-03 08:30:29.571517,6501000,Mua sắm,Mobile App,26,Kỹ sư,Standard,Chuyển khoản (App),Thành công,Đà Nẵng,3
+TX1002160,TCB10045,2025-03-04 04:42:19.151507,30215000,Chuyển khoản,Internet Banking,44,Nhân viên văn phòng,Gold,QR Code,Thành công,Cần Thơ,21
+TX1002161,TCB10149,2025-03-04 14:34:57.175692,100000,Giải trí,Mobile App,41,Bác sĩ,Standard,Chuyển khoản (App),Thành công,Đà Nẵng,1
+TX1002162,TCB10109,2025-03-04 20:57:09.557827,100000,Sức khỏe,Mobile App,26,Sinh viên,Standard,Chuyển khoản (App),Thành công,Đà Nẵng,8
+TX1002163,TCB10006,2025-03-04 21:35:41.957453,7479000,Mua sắm,Mobile App,55,Sinh viên,Standard,QR Code,Thành công,Cần Thơ,8
+TX1002164,TCB10107,2025-03-06 22:28:41.444463,2585000,Ăn uống,Tại quầy (OTC),49,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,31
+TX1002165,TCB10094,2025-03-07 06:12:55.091320,30212000,Chuyển khoản,Mobile App,43,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Hải Phòng,22
+TX1002166,TCB10022,2025-03-07 12:42:24.786112,749000,Ăn uống,Internet Banking,60,Kinh doanh tự do,Priority,Thẻ tín dụng,Thành công,Đồng Nai,16
+TX1002167,TCB10119,2025-03-07 18:03:48.003210,854000,Ăn uống,POS,43,Kinh doanh tự do,Standard,Thẻ tín dụng,Thành công,Đồng Nai,18
+TX1002168,TCB10077,2025-03-07 21:49:43.839479,924000,Thanh toán hóa đơn,Tại quầy (OTC),29,Sinh viên,Standard,Chuyển khoản (App),Thành công,Quảng Ninh,5
+TX1002169,TCB10115,2025-03-08 10:22:56.208120,638000,Ăn uống,Mobile App,26,Kỹ sư,Standard,Chuyển khoản (App),Thành công,Đà Nẵng,3
+TX1002170,TCB10081,2025-03-08 16:13:33.340309,2528000,Thanh toán hóa đơn,POS,31,Bác sĩ,Standard,QR Code,Thành công,Bình Dương,1
+TX1002171,TCB10043,2025-03-10 13:06:52.890972,1595000,Ăn uống,POS,58,Kinh doanh tự do,Standard,QR Code,Thành công,Hải Phòng,12
+TX1002172,TCB10020,2025-03-11 06:39:23.306439,1672000,Ăn uống,Internet Banking,59,Giám đốc,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,3
+TX1002173,TCB10140,2025-03-11 18:01:06.389643,594000,Thanh toán hóa đơn,Internet Banking,60,Giáo viên,Standard,QR Code,Thành công,Quảng Ninh,23
+TX1002174,TCB10129,2025-03-13 16:58:27.041209,785000,Thanh toán hóa đơn,POS,62,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,Cần Thơ,1
+TX1002175,TCB10073,2025-03-14 04:16:02.841432,101000,Giải trí,Mobile App,21,Kinh doanh tự do,Gold,Chuyển khoản (App),Thành công,Đà Nẵng,3
+TX1002176,TCB10102,2025-03-14 04:57:41.001966,286000,Sức khỏe,Mobile App,37,Kỹ sư,Priority,QR Code,Thành công,Đồng Nai,9
+TX1002177,TCB10010,2025-03-14 08:57:33.820192,2010000,Ăn uống,POS,50,Kỹ sư,Gold,Thẻ tín dụng,Thành công,Quảng Ninh,16
+TX1002178,TCB10107,2025-03-14 15:01:10.466336,19529000,Mua sắm,ATM,49,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,31
+TX1002179,TCB10020,2025-03-15 20:08:49.687685,38284000,Du lịch,Internet Banking,59,Giám đốc,Standard,Chuyển khoản (App),Thành công,Hải Phòng,3
+TX1002180,TCB10075,2025-03-16 07:07:20.151161,2387000,Thanh toán hóa đơn,POS,51,Kỹ sư,Priority,QR Code,Thành công,Đà Nẵng,27
+TX1002181,TCB10072,2025-03-16 15:08:37.298457,2216000,Ăn uống,Mobile App,56,Giáo viên,Gold,QR Code,Thành công,Bình Dương,27
+TX1002182,TCB10034,2025-03-17 18:33:29.926896,284000,Giải trí,POS,26,Giám đốc,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,8
+TX1002183,TCB10095,2025-03-18 06:27:49.226832,19397000,Mua sắm,Internet Banking,63,Kỹ sư,Priority,QR Code,Thành công,TP. Hồ Chí Minh,25
+TX1002184,TCB10079,2025-03-18 09:45:07.023367,172000,Di chuyển,Mobile App,44,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Bình Dương,5
+TX1002185,TCB10021,2025-03-18 22:32:11.433064,1150000,Di chuyển,Mobile App,60,Kinh doanh tự do,Priority,Chuyển khoản (App),Thành công,Cần Thơ,10
+TX1002186,TCB10132,2025-03-21 06:44:47.567103,8065000,Du lịch,Mobile App,49,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Cần Thơ,20
+TX1002187,TCB10067,2025-03-22 08:05:23.755836,9781000,Du lịch,ATM,19,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,Hà Nội,1
+TX1002188,TCB10125,2025-03-23 02:19:31.892996,100000,Giáo dục,ATM,21,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Bình Dương,3
+TX1002189,TCB10129,2025-03-24 21:09:25.475459,1027000,Ăn uống,Internet Banking,62,Nhân viên văn phòng,Standard,Thẻ tín dụng,Thành công,Cần Thơ,1
+TX1002190,TCB10142,2025-03-25 02:52:22.899373,3119000,Thanh toán hóa đơn,POS,53,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Quảng Ninh,31
+TX1002191,TCB10139,2025-03-26 02:20:45.789652,4905000,Thanh toán hóa đơn,Mobile App,39,Nhân viên văn phòng,Priority,Chuyển khoản (App),Thành công,Quảng Ninh,14
+TX1002192,TCB10089,2025-03-26 06:19:52.636848,677000,Ăn uống,POS,48,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,1
+TX1002193,TCB10046,2025-03-26 18:36:40.181274,89715000,Chuyển khoản,Mobile App,20,Giáo viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,2
+TX1002194,TCB10011,2025-03-27 02:51:19.575779,2217000,Mua sắm,Mobile App,56,Nhân viên văn phòng,Gold,Chuyển khoản (App),Thành công,Bình Dương,37
+TX1002195,TCB10054,2025-03-27 14:01:11.275734,4580000,Mua sắm,Mobile App,61,Giáo viên,Standard,QR Code,Thành công,Cần Thơ,36
+TX1002196,TCB10118,2025-03-28 11:22:19.914404,108000,Giải trí,POS,24,Nhân viên văn phòng,Gold,QR Code,Thành công,Hải Phòng,2
+TX1002197,TCB10089,2025-03-31 09:56:08.812844,48361000,Chuyển khoản,ATM,48,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,1
+TX1002198,TCB10041,2025-03-31 11:45:18.796740,290000,Giải trí,Internet Banking,59,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Bình Dương,21
+TX1002199,TCB10092,2025-04-02 23:07:28.530887,11255000,Chuyển khoản,Mobile App,29,Kinh doanh tự do,Priority,Chuyển khoản (App),Đang xử lý,Hải Phòng,7
+TX1002200,TCB10073,2025-04-03 00:13:40.889628,4138000,Mua sắm,POS,21,Kinh doanh tự do,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,3
+TX1002201,TCB10146,2025-04-03 02:57:52.277067,328000,Di chuyển,POS,61,Giám đốc,Gold,QR Code,Thành công,TP. Hồ Chí Minh,22
+TX1002202,TCB10030,2025-04-04 20:52:37.030944,141000,Giải trí,Mobile App,39,Giám đốc,Gold,QR Code,Thành công,Quảng Ninh,17
+TX1002203,TCB10017,2025-04-05 04:42:11.539527,8845000,Mua sắm,POS,19,Nhân viên văn phòng,Standard,Thẻ tín dụng,Thành công,Đồng Nai,1
+TX1002204,TCB10116,2025-04-05 09:16:07.506523,15645000,Mua sắm,Mobile App,53,Sinh viên,Priority,Chuyển khoản (App),Thành công,Hà Nội,18
+TX1002205,TCB10113,2025-04-05 23:40:50.368778,16975000,Mua sắm,POS,33,Kỹ sư,Gold,QR Code,Thành công,Hải Phòng,13
+TX1002206,TCB10107,2025-04-06 03:55:51.761000,10062000,Thanh toán hóa đơn,Tại quầy (OTC),49,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Đà Nẵng,31
+TX1002207,TCB10096,2025-04-06 20:38:08.220869,25527000,Mua sắm,Mobile App,55,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Hải Phòng,34
+TX1002208,TCB10054,2025-04-07 08:53:29.600004,74000,Di chuyển,Mobile App,61,Giáo viên,Standard,Chuyển khoản (App),Thành công,Cần Thơ,36
+TX1002209,TCB10082,2025-04-07 19:37:17.631837,4171000,Mua sắm,Mobile App,62,Kinh doanh tự do,Priority,Chuyển khoản (App),Thành công,Bình Dương,7
+TX1002210,TCB10068,2025-04-08 02:33:38.733325,2600000,Mua sắm,Mobile App,50,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Hà Nội,9
+TX1002211,TCB10140,2025-04-08 07:30:45.166406,100000,Giải trí,Tại quầy (OTC),60,Giáo viên,Standard,QR Code,Thành công,Quảng Ninh,23
+TX1002212,TCB10132,2025-04-08 15:00:54.968698,5915000,Thanh toán hóa đơn,POS,49,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,20
+TX1002213,TCB10075,2025-04-09 01:41:01.838796,143016000,Chuyển khoản,Mobile App,51,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,27
+TX1002214,TCB10051,2025-04-09 16:23:16.712992,118000,Giáo dục,Mobile App,62,Nội trợ,Gold,QR Code,Thành công,Đồng Nai,18
+TX1002215,TCB10066,2025-04-11 07:30:19.703919,3262000,Thanh toán hóa đơn,POS,60,Sinh viên,Gold,QR Code,Thành công,TP. Hồ Chí Minh,26
+TX1002216,TCB10126,2025-04-13 11:34:19.468577,8155000,Mua sắm,Tại quầy (OTC),41,Lập trình viên,Standard,Chuyển khoản (App),Thành công,Hải Phòng,16
+TX1002217,TCB10078,2025-04-13 22:49:27.510023,1537000,Ăn uống,Internet Banking,63,Bác sĩ,Gold,Chuyển khoản (App),Thất bại,Hải Phòng,33
+TX1002218,TCB10095,2025-04-14 01:31:06.966238,5825000,Ăn uống,Mobile App,63,Kỹ sư,Priority,QR Code,Thành công,TP. Hồ Chí Minh,25
+TX1002219,TCB10070,2025-04-14 14:06:00.954826,283000,Giải trí,Mobile App,46,Sinh viên,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,20
+TX1002220,TCB10082,2025-04-14 15:37:54.492660,3260000,Ăn uống,Mobile App,62,Kinh doanh tự do,Priority,QR Code,Thành công,Bình Dương,7
+TX1002221,TCB10048,2025-04-14 21:56:16.567694,63000,Di chuyển,Mobile App,58,Bác sĩ,Gold,QR Code,Thành công,Cần Thơ,36
+TX1002222,TCB10010,2025-04-16 07:26:45.747049,128000,Sức khỏe,POS,50,Kỹ sư,Gold,QR Code,Thành công,Quảng Ninh,16
+TX1002223,TCB10028,2025-04-16 19:07:45.281373,257000,Di chuyển,POS,23,Giám đốc,Standard,QR Code,Thành công,Quảng Ninh,1
+TX1002224,TCB10112,2025-04-16 20:37:40.057329,100000,Sức khỏe,Internet Banking,38,Bác sĩ,Standard,QR Code,Thành công,TP. Hồ Chí Minh,5
+TX1002225,TCB10081,2025-04-17 00:02:20.205743,100000,Sức khỏe,Mobile App,31,Bác sĩ,Standard,Chuyển khoản (App),Thành công,Bình Dương,1
+TX1002226,TCB10150,2025-04-17 20:10:47.036498,7013000,Mua sắm,ATM,52,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,21
+TX1002227,TCB10002,2025-04-18 05:15:28.498526,1067000,Ăn uống,Mobile App,63,Bác sĩ,Gold,QR Code,Thành công,Đồng Nai,27
+TX1002228,TCB10111,2025-04-18 15:53:50.571142,21603000,Mua sắm,POS,34,Giám đốc,Priority,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,10
+TX1002229,TCB10014,2025-04-18 17:50:33.527175,1452000,Thanh toán hóa đơn,ATM,25,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,6
+TX1002230,TCB10134,2025-04-20 04:41:13.686508,5280000,Mua sắm,Internet Banking,23,Kinh doanh tự do,Standard,QR Code,Thành công,TP. Hồ Chí Minh,3
+TX1002231,TCB10081,2025-04-20 18:31:39.934610,13290000,Mua sắm,Mobile App,31,Bác sĩ,Standard,Chuyển khoản (App),Thành công,Bình Dương,1
+TX1002232,TCB10118,2025-04-20 20:45:36.939580,1520000,Ăn uống,Mobile App,24,Nhân viên văn phòng,Gold,Thẻ ghi nợ,Thành công,Hải Phòng,2
+TX1002233,TCB10029,2025-04-21 02:11:48.509878,1797000,Mua sắm,Internet Banking,48,Nội trợ,Standard,Thẻ tín dụng,Thành công,Hải Phòng,19
+TX1002234,TCB10149,2025-04-22 00:09:24.180587,54000,Di chuyển,ATM,41,Bác sĩ,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,1
+TX1002235,TCB10073,2025-04-25 07:26:14.896066,14752000,Mua sắm,Mobile App,21,Kinh doanh tự do,Gold,Chuyển khoản (App),Thành công,Đà Nẵng,3
+TX1002236,TCB10114,2025-04-25 11:09:42.624230,22770000,Du lịch,Mobile App,32,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,Hải Phòng,4
+TX1002237,TCB10009,2025-04-26 18:50:20.129933,916000,Ăn uống,Mobile App,31,Kinh doanh tự do,Gold,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,10
+TX1002238,TCB10041,2025-04-27 02:15:16.312993,406000,Ăn uống,POS,59,Kinh doanh tự do,Priority,QR Code,Thành công,Bình Dương,21
+TX1002239,TCB10100,2025-04-27 12:57:38.957170,3111000,Mua sắm,ATM,62,Giáo viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,5
+TX1002240,TCB10141,2025-04-28 04:00:51.515782,2068000,Ăn uống,POS,58,Sinh viên,Priority,Thẻ tín dụng,Thành công,Hà Nội,23
+TX1002241,TCB10104,2025-04-29 01:54:41.622237,480000,Di chuyển,POS,30,Nội trợ,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,1
+TX1002242,TCB10098,2025-04-30 04:34:28.037947,1949000,Chuyển khoản,Mobile App,19,Nội trợ,Standard,Chuyển khoản (App),Thành công,Hải Phòng,1
+TX1002243,TCB10107,2025-04-30 08:05:50.576572,157070000,Chuyển khoản,Tại quầy (OTC),49,Lập trình viên,Priority,QR Code,Thành công,Đà Nẵng,31
+TX1002244,TCB10058,2025-04-30 13:46:37.605716,8142000,Mua sắm,Mobile App,63,Sinh viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,41
+TX1002245,TCB10002,2025-04-30 18:09:02.397540,113000,Giải trí,ATM,63,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,27
+TX1002246,TCB10046,2025-04-30 21:55:17.369361,7681000,Thanh toán hóa đơn,Mobile App,20,Giáo viên,Priority,Chuyển khoản (App),Thất bại,Hải Phòng,2
+TX1002247,TCB10070,2025-05-01 12:40:03.297869,4401000,Thanh toán hóa đơn,Mobile App,46,Sinh viên,Priority,Chuyển khoản (App),Thành công,Đồng Nai,20
+TX1002248,TCB10147,2025-05-05 05:31:49.337449,211000,Giải trí,Mobile App,61,Giáo viên,Priority,Chuyển khoản (App),Thành công,Hà Nội,15
+TX1002249,TCB10138,2025-05-05 07:28:16.582776,276000,Giải trí,POS,52,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,18
+TX1002250,TCB10103,2025-05-05 09:34:34.217409,18584000,Mua sắm,Internet Banking,55,Lập trình viên,Gold,Thẻ ghi nợ,Thành công,Bình Dương,33
+TX1002251,TCB10020,2025-05-06 20:34:19.289577,7605000,Mua sắm,Internet Banking,59,Giám đốc,Standard,Thẻ tín dụng,Thành công,Hải Phòng,3
+TX1002252,TCB10136,2025-05-06 23:29:29.740584,1661000,Ăn uống,POS,25,Kỹ sư,Standard,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,3
+TX1002253,TCB10001,2025-05-08 10:26:04.880748,494000,Di chuyển,Mobile App,45,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,8
+TX1002254,TCB10063,2025-05-09 11:20:25.601994,1768000,Ăn uống,Mobile App,52,Lập trình viên,Standard,QR Code,Thành công,Quảng Ninh,11
+TX1002255,TCB10058,2025-05-09 12:41:33.895699,813000,Ăn uống,Mobile App,63,Sinh viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,41
+TX1002256,TCB10132,2025-05-10 21:48:53.590648,202000,Giải trí,POS,49,Lập trình viên,Priority,QR Code,Thành công,Cần Thơ,20
+TX1002257,TCB10057,2025-05-11 02:33:57.806737,46315000,Chuyển khoản,Mobile App,18,Kỹ sư,Gold,QR Code,Thành công,Quảng Ninh,1
+TX1002258,TCB10063,2025-05-13 08:05:08.299778,7166000,Chuyển khoản,Mobile App,52,Lập trình viên,Standard,Chuyển khoản (App),Thành công,Quảng Ninh,11
+TX1002259,TCB10046,2025-05-15 00:04:12.067457,11321000,Thanh toán hóa đơn,Mobile App,20,Giáo viên,Priority,Chuyển khoản (App),Thành công,Hải Phòng,2
+TX1002260,TCB10055,2025-05-15 02:27:01.326866,1514000,Thanh toán hóa đơn,Mobile App,34,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Quảng Ninh,15
+TX1002261,TCB10080,2025-05-15 06:23:16.561444,24733000,Du lịch,Mobile App,60,Kỹ sư,Gold,QR Code,Thành công,TP. Hồ Chí Minh,34
+TX1002262,TCB10074,2025-05-15 19:57:49.230847,25226000,Mua sắm,Internet Banking,33,Nhân viên văn phòng,Priority,QR Code,Thành công,Quảng Ninh,13
+TX1002263,TCB10096,2025-05-16 10:23:56.295309,1282000,Ăn uống,Mobile App,55,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Hải Phòng,34
+TX1002264,TCB10019,2025-05-17 05:07:16.845713,100000,Giải trí,POS,41,Kinh doanh tự do,Standard,QR Code,Thành công,Đồng Nai,2
+TX1002265,TCB10033,2025-05-19 17:41:21.774196,151000,Giải trí,Mobile App,30,Nhân viên văn phòng,Priority,QR Code,Thành công,Đồng Nai,8
+TX1002266,TCB10132,2025-05-20 02:52:31.102635,2456000,Ăn uống,Mobile App,49,Lập trình viên,Priority,QR Code,Thành công,Cần Thơ,20
+TX1002267,TCB10037,2025-05-20 09:58:12.875042,2138000,Ăn uống,Mobile App,33,Sinh viên,Priority,QR Code,Thành công,TP. Hồ Chí Minh,2
+TX1002268,TCB10090,2025-05-21 00:08:07.008312,186000,Giáo dục,POS,57,Giáo viên,Priority,QR Code,Thành công,Bình Dương,20
+TX1002269,TCB10129,2025-05-21 16:29:58.150440,302000,Di chuyển,ATM,62,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,Cần Thơ,1
+TX1002270,TCB10115,2025-05-22 10:38:57.216054,447000,Thanh toán hóa đơn,Tại quầy (OTC),26,Kỹ sư,Standard,Thẻ ghi nợ,Thất bại,Đà Nẵng,3
+TX1002271,TCB10149,2025-05-23 02:27:28.177170,100000,Giải trí,ATM,41,Bác sĩ,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,1
+TX1002272,TCB10018,2025-05-24 00:49:15.786705,506000,Thanh toán hóa đơn,POS,42,Sinh viên,Gold,Thẻ ghi nợ,Thành công,Cần Thơ,12
+TX1002273,TCB10056,2025-05-24 03:21:55.071421,68288000,Chuyển khoản,POS,34,Nhân viên văn phòng,Standard,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,4
+TX1002274,TCB10133,2025-05-24 07:14:38.947438,28740000,Chuyển khoản,Mobile App,51,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,13
+TX1002275,TCB10146,2025-05-24 16:09:14.775202,2213000,Thanh toán hóa đơn,ATM,61,Giám đốc,Gold,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,22
+TX1002276,TCB10107,2025-05-26 01:41:04.180938,6678000,Mua sắm,Mobile App,49,Lập trình viên,Priority,Chuyển khoản (App),Đang xử lý,Đà Nẵng,31
+TX1002277,TCB10036,2025-05-26 21:42:51.874075,3040000,Mua sắm,Mobile App,46,Nội trợ,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,26
+TX1002278,TCB10115,2025-05-27 12:38:24.554335,100000,Sức khỏe,POS,26,Kỹ sư,Standard,QR Code,Thành công,Đà Nẵng,3
+TX1002279,TCB10133,2025-05-29 04:40:13.718326,189000,Giáo dục,ATM,51,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,13
+TX1002280,TCB10127,2025-05-30 20:07:36.396575,1206000,Ăn uống,Mobile App,37,Giáo viên,Standard,QR Code,Thành công,Đồng Nai,1
+TX1002281,TCB10067,2025-06-01 03:17:07.711740,5341000,Chuyển khoản,Internet Banking,19,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,Hà Nội,1
+TX1002282,TCB10114,2025-06-01 11:49:43.829473,1721000,Ăn uống,Mobile App,32,Nhân viên văn phòng,Standard,QR Code,Thành công,Hải Phòng,4
+TX1002283,TCB10013,2025-06-01 13:47:25.089212,23235000,Mua sắm,POS,47,Kinh doanh tự do,Priority,QR Code,Thất bại,Cần Thơ,26
+TX1002284,TCB10139,2025-06-03 00:20:08.030855,1405000,Mua sắm,Mobile App,39,Nhân viên văn phòng,Priority,QR Code,Thành công,Quảng Ninh,14
+TX1002285,TCB10047,2025-06-03 16:22:11.570832,3318000,Ăn uống,Mobile App,59,Giám đốc,Priority,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,9
+TX1002286,TCB10138,2025-06-03 19:44:41.098499,361000,Di chuyển,ATM,52,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,18
+TX1002287,TCB10042,2025-06-05 11:22:21.053332,11008000,Mua sắm,Mobile App,43,Nội trợ,Gold,Chuyển khoản (App),Thành công,Đồng Nai,4
+TX1002288,TCB10021,2025-06-06 02:11:55.036240,206000,Giải trí,ATM,60,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,10
+TX1002289,TCB10036,2025-06-06 08:05:27.064211,16896000,Mua sắm,Mobile App,46,Nội trợ,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,26
+TX1002290,TCB10082,2025-06-06 23:46:02.581716,22349000,Chuyển khoản,POS,62,Kinh doanh tự do,Priority,Thẻ tín dụng,Thành công,Bình Dương,7
+TX1002291,TCB10066,2025-06-07 12:44:12.302420,59498000,Chuyển khoản,Mobile App,60,Sinh viên,Gold,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,26
+TX1002292,TCB10109,2025-06-07 16:04:02.939194,1395000,Ăn uống,Mobile App,26,Sinh viên,Standard,QR Code,Thành công,Đà Nẵng,8
+TX1002293,TCB10044,2025-06-09 19:05:53.727948,10054000,Mua sắm,Mobile App,38,Giám đốc,Gold,Chuyển khoản (App),Thất bại,Quảng Ninh,19
+TX1002294,TCB10025,2025-06-10 03:34:21.407761,100000,Sức khỏe,ATM,33,Nội trợ,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,5
+TX1002295,TCB10020,2025-06-10 13:35:44.303225,31649000,Chuyển khoản,Mobile App,59,Giám đốc,Standard,QR Code,Thành công,Hải Phòng,3
+TX1002296,TCB10028,2025-06-10 13:52:15.351911,2445000,Mua sắm,ATM,23,Giám đốc,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,1
+TX1002297,TCB10107,2025-06-11 02:56:26.596242,1950000,Ăn uống,POS,49,Lập trình viên,Priority,QR Code,Thành công,Đà Nẵng,31
+TX1002298,TCB10148,2025-06-11 15:01:21.956490,100000,Giải trí,POS,18,Sinh viên,Standard,Thẻ tín dụng,Thành công,Hải Phòng,1
+TX1002299,TCB10062,2025-06-12 21:42:39.811337,9242000,Thanh toán hóa đơn,Mobile App,49,Bác sĩ,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,20
+TX1002300,TCB10010,2025-06-12 21:52:26.806701,110000,Giáo dục,POS,50,Kỹ sư,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,16
+TX1002301,TCB10039,2025-06-12 23:07:01.033435,168000,Ăn uống,ATM,19,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,1
+TX1002302,TCB10107,2025-06-13 07:02:25.489523,17925000,Mua sắm,POS,49,Lập trình viên,Priority,QR Code,Thành công,Đà Nẵng,31
+TX1002303,TCB10003,2025-06-13 07:30:42.988816,5017000,Mua sắm,POS,36,Lập trình viên,Gold,QR Code,Thành công,Hà Nội,11
+TX1002304,TCB10072,2025-06-13 18:47:07.323535,525000,Di chuyển,Internet Banking,56,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Bình Dương,27
+TX1002305,TCB10012,2025-06-15 20:31:10.222083,669000,Di chuyển,Mobile App,47,Sinh viên,Gold,Chuyển khoản (App),Thành công,Bình Dương,23
+TX1002306,TCB10004,2025-06-16 11:00:58.616147,116000,Di chuyển,POS,28,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,7
+TX1002307,TCB10063,2025-06-17 08:14:50.834826,1471000,Mua sắm,Mobile App,52,Lập trình viên,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,11
+TX1002308,TCB10054,2025-06-18 05:44:06.364413,35305000,Du lịch,POS,61,Giáo viên,Standard,Thẻ ghi nợ,Thành công,Cần Thơ,36
+TX1002309,TCB10026,2025-06-18 11:03:49.981787,73686000,Chuyển khoản,ATM,20,Bác sĩ,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,1
+TX1002310,TCB10107,2025-06-18 13:51:34.942989,57538000,Du lịch,Mobile App,49,Lập trình viên,Priority,Thẻ ghi nợ,Thất bại,Đà Nẵng,31
+TX1002311,TCB10008,2025-06-18 15:40:15.283019,144000,Giải trí,POS,53,Bác sĩ,Gold,Thẻ tín dụng,Thành công,Đồng Nai,11
+TX1002312,TCB10140,2025-06-18 21:44:17.598493,1879000,Ăn uống,Mobile App,60,Giáo viên,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,23
+TX1002313,TCB10012,2025-06-19 17:47:51.802919,156000,Giải trí,Mobile App,47,Sinh viên,Gold,QR Code,Thành công,Bình Dương,23
+TX1002314,TCB10032,2025-06-20 20:35:38.944181,42377000,Mua sắm,Mobile App,57,Giám đốc,Priority,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,12
+TX1002315,TCB10063,2025-06-21 00:21:27.700054,1025000,Ăn uống,Mobile App,52,Lập trình viên,Standard,Chuyển khoản (App),Thành công,Quảng Ninh,11
+TX1002316,TCB10075,2025-06-21 06:14:57.567425,179000,Giáo dục,Mobile App,51,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,27
+TX1002317,TCB10126,2025-06-22 03:25:23.388248,33000,Di chuyển,Mobile App,41,Lập trình viên,Standard,QR Code,Thành công,Hải Phòng,16
+TX1002318,TCB10033,2025-06-22 03:49:59.501769,72656000,Du lịch,Mobile App,30,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,8
+TX1002319,TCB10092,2025-06-23 16:26:11.386179,280000,Sức khỏe,Mobile App,29,Kinh doanh tự do,Priority,Chuyển khoản (App),Thành công,Hải Phòng,7
+TX1002320,TCB10143,2025-06-23 23:23:29.569557,132000,Sức khỏe,Mobile App,57,Lập trình viên,Gold,QR Code,Thành công,Bình Dương,9
+TX1002321,TCB10021,2025-06-24 13:24:35.776195,221000,Giáo dục,ATM,60,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Cần Thơ,10
+TX1002322,TCB10106,2025-06-25 07:52:18.397552,121385000,Chuyển khoản,Mobile App,44,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,18
+TX1002323,TCB10072,2025-06-25 12:02:35.991240,634000,Di chuyển,Internet Banking,56,Giáo viên,Gold,QR Code,Thành công,Bình Dương,27
+TX1002324,TCB10136,2025-06-25 22:00:28.265564,100000,Giải trí,Mobile App,25,Kỹ sư,Standard,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,3
+TX1002325,TCB10127,2025-06-28 03:12:38.402494,100000,Sức khỏe,Mobile App,37,Giáo viên,Standard,Chuyển khoản (App),Thành công,Đồng Nai,1
+TX1002326,TCB10013,2025-06-29 10:50:34.736282,10938000,Thanh toán hóa đơn,Mobile App,47,Kinh doanh tự do,Priority,Chuyển khoản (App),Thành công,Cần Thơ,26
+TX1002327,TCB10149,2025-06-29 21:59:49.632626,12967000,Mua sắm,Mobile App,41,Bác sĩ,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,1
+TX1002328,TCB10126,2025-06-30 10:24:55.194396,1286000,Ăn uống,POS,41,Lập trình viên,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,16
+TX1002329,TCB10033,2025-06-30 10:26:48.440204,168000,Giải trí,Tại quầy (OTC),30,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,8
+TX1002330,TCB10117,2025-07-02 00:35:00.681671,296000,Giáo dục,Mobile App,48,Kinh doanh tự do,Priority,QR Code,Thành công,Đồng Nai,30
+TX1002331,TCB10108,2025-07-02 14:54:18.213236,148302000,Chuyển khoản,Internet Banking,51,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,28
+TX1002332,TCB10140,2025-07-02 23:05:21.713345,2955000,Du lịch,ATM,60,Giáo viên,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,23
+TX1002333,TCB10015,2025-07-02 23:30:10.324182,1555000,Mua sắm,POS,43,Kỹ sư,Gold,Thẻ tín dụng,Thành công,Bình Dương,20
+TX1002334,TCB10013,2025-07-03 11:42:35.211602,116562000,Chuyển khoản,Internet Banking,47,Kinh doanh tự do,Priority,QR Code,Thành công,Cần Thơ,26
+TX1002335,TCB10051,2025-07-04 12:47:15.696455,153000,Sức khỏe,Internet Banking,62,Nội trợ,Gold,Chuyển khoản (App),Thành công,Đồng Nai,18
+TX1002336,TCB10002,2025-07-04 21:45:30.380831,23516000,Mua sắm,Internet Banking,63,Bác sĩ,Gold,QR Code,Thành công,Đồng Nai,27
+TX1002337,TCB10012,2025-07-05 04:02:45.973021,3063000,Ăn uống,POS,47,Sinh viên,Gold,QR Code,Thành công,Bình Dương,23
+TX1002338,TCB10099,2025-07-05 04:09:54.094243,296000,Di chuyển,POS,51,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Bình Dương,17
+TX1002339,TCB10055,2025-07-05 11:38:35.891160,28906000,Mua sắm,Internet Banking,34,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Quảng Ninh,15
+TX1002340,TCB10114,2025-07-05 21:21:22.158066,364000,Di chuyển,POS,32,Nhân viên văn phòng,Standard,QR Code,Thành công,Hải Phòng,4
+TX1002341,TCB10014,2025-07-07 09:41:11.292435,198000,Giáo dục,POS,25,Kinh doanh tự do,Priority,QR Code,Thành công,Hải Phòng,6
+TX1002342,TCB10082,2025-07-07 10:46:16.494300,152000,Giáo dục,Internet Banking,62,Kinh doanh tự do,Priority,QR Code,Thành công,Bình Dương,7
+TX1002343,TCB10125,2025-07-07 15:23:50.418168,511000,Ăn uống,Mobile App,21,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Bình Dương,3
+TX1002344,TCB10061,2025-07-08 00:24:59.150624,5158000,Mua sắm,Mobile App,21,Nội trợ,Standard,Chuyển khoản (App),Thành công,Hà Nội,1
+TX1002345,TCB10119,2025-07-10 00:17:13.682649,533000,Ăn uống,Mobile App,43,Kinh doanh tự do,Standard,QR Code,Thành công,Đồng Nai,18
+TX1002346,TCB10016,2025-07-10 03:12:10.101594,43269000,Du lịch,Mobile App,34,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,6
+TX1002347,TCB10009,2025-07-10 03:17:20.103212,134000,Giáo dục,POS,31,Kinh doanh tự do,Gold,QR Code,Thành công,TP. Hồ Chí Minh,10
+TX1002348,TCB10080,2025-07-11 18:55:25.278563,106000,Giải trí,Mobile App,60,Kỹ sư,Gold,QR Code,Thành công,TP. Hồ Chí Minh,34
+TX1002349,TCB10136,2025-07-14 18:37:24.462979,1977000,Ăn uống,ATM,25,Kỹ sư,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,3
+TX1002350,TCB10057,2025-07-15 19:43:21.608319,1043000,Ăn uống,Mobile App,18,Kỹ sư,Gold,QR Code,Thành công,Quảng Ninh,1
+TX1002351,TCB10005,2025-07-16 07:12:06.720813,100000,Giải trí,Mobile App,25,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,4
+TX1002352,TCB10078,2025-07-16 09:42:28.364267,174000,Sức khỏe,Mobile App,63,Bác sĩ,Gold,Chuyển khoản (App),Đang xử lý,Hải Phòng,33
+TX1002353,TCB10099,2025-07-16 18:12:16.393169,507000,Di chuyển,ATM,51,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Bình Dương,17
+TX1002354,TCB10047,2025-07-17 13:48:11.791394,18886000,Mua sắm,Mobile App,59,Giám đốc,Priority,QR Code,Thành công,TP. Hồ Chí Minh,9
+TX1002355,TCB10101,2025-07-18 10:09:30.237528,11194000,Chuyển khoản,Mobile App,41,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,7
+TX1002356,TCB10038,2025-07-18 14:49:27.936954,1785000,Ăn uống,POS,38,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,14
+TX1002357,TCB10139,2025-07-19 09:49:40.029740,12570000,Thanh toán hóa đơn,Internet Banking,39,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Quảng Ninh,14
+TX1002358,TCB10112,2025-07-20 09:03:25.674579,40788000,Chuyển khoản,Tại quầy (OTC),38,Bác sĩ,Standard,QR Code,Thành công,TP. Hồ Chí Minh,5
+TX1002359,TCB10005,2025-07-20 14:44:42.765616,298000,Thanh toán hóa đơn,Internet Banking,25,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,4
+TX1002360,TCB10004,2025-07-20 18:08:31.051283,6325000,Thanh toán hóa đơn,POS,28,Giáo viên,Gold,QR Code,Thành công,Đà Nẵng,7
+TX1002361,TCB10111,2025-07-22 02:08:59.682144,3454000,Ăn uống,Internet Banking,34,Giám đốc,Priority,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,10
+TX1002362,TCB10025,2025-07-22 03:10:45.676585,868000,Ăn uống,POS,33,Nội trợ,Standard,QR Code,Thất bại,Đà Nẵng,5
+TX1002363,TCB10092,2025-07-22 13:28:35.388926,780000,Ăn uống,Mobile App,29,Kinh doanh tự do,Priority,QR Code,Thành công,Hải Phòng,7
+TX1002364,TCB10096,2025-07-24 06:09:12.780160,667000,Ăn uống,Mobile App,55,Giáo viên,Gold,Thẻ ghi nợ,Thành công,Hải Phòng,34
+TX1002365,TCB10097,2025-07-24 17:56:54.712947,2045000,Ăn uống,ATM,64,Kỹ sư,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,31
+TX1002366,TCB10018,2025-07-26 17:07:58.949973,113000,Giải trí,Internet Banking,42,Sinh viên,Gold,Thẻ tín dụng,Thất bại,Cần Thơ,12
+TX1002367,TCB10020,2025-07-28 17:22:17.136990,1380000,Ăn uống,Mobile App,59,Giám đốc,Standard,QR Code,Thành công,Hải Phòng,3
+TX1002368,TCB10038,2025-07-28 19:37:28.346117,14555000,Mua sắm,Internet Banking,38,Kinh doanh tự do,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,14
+TX1002369,TCB10123,2025-07-29 01:47:56.719370,4285000,Thanh toán hóa đơn,POS,34,Nội trợ,Gold,Thẻ tín dụng,Thành công,Đà Nẵng,5
+TX1002370,TCB10023,2025-07-29 21:52:43.675225,17401000,Mua sắm,Mobile App,29,Sinh viên,Gold,QR Code,Thành công,Đồng Nai,10
+TX1002371,TCB10117,2025-08-01 06:55:43.146037,5713000,Thanh toán hóa đơn,ATM,48,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,30
+TX1002372,TCB10150,2025-08-01 10:31:26.208224,243000,Thanh toán hóa đơn,Mobile App,52,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,21
+TX1002373,TCB10062,2025-08-02 03:03:33.583062,292000,Giáo dục,POS,49,Bác sĩ,Priority,QR Code,Thành công,Cần Thơ,20
+TX1002374,TCB10015,2025-08-02 14:20:25.157310,131000,Giáo dục,Mobile App,43,Kỹ sư,Gold,Chuyển khoản (App),Thành công,Bình Dương,20
+TX1002375,TCB10148,2025-08-02 14:25:12.065352,21936000,Chuyển khoản,Mobile App,18,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,1
+TX1002376,TCB10087,2025-08-02 19:06:51.629923,4895000,Thanh toán hóa đơn,Mobile App,28,Giám đốc,Standard,QR Code,Thành công,Đà Nẵng,4
+TX1002377,TCB10017,2025-08-03 12:45:25.626606,10452000,Mua sắm,Mobile App,19,Nhân viên văn phòng,Standard,QR Code,Thành công,Đồng Nai,1
+TX1002378,TCB10085,2025-08-05 11:49:28.199874,7353000,Thanh toán hóa đơn,Mobile App,54,Bác sĩ,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,30
+TX1002379,TCB10003,2025-08-05 18:38:35.592629,817000,Di chuyển,Tại quầy (OTC),36,Lập trình viên,Gold,Thẻ tín dụng,Thành công,Hà Nội,11
+TX1002380,TCB10043,2025-08-06 04:55:19.046009,100000,Giáo dục,Mobile App,58,Kinh doanh tự do,Standard,QR Code,Thành công,Hải Phòng,12
+TX1002381,TCB10009,2025-08-06 08:35:32.663697,67966000,Chuyển khoản,POS,31,Kinh doanh tự do,Gold,QR Code,Thành công,TP. Hồ Chí Minh,10
+TX1002382,TCB10092,2025-08-06 12:42:09.604496,31696000,Chuyển khoản,Mobile App,29,Kinh doanh tự do,Priority,QR Code,Thành công,Hải Phòng,7
+TX1002383,TCB10007,2025-08-07 00:11:18.936411,1571000,Ăn uống,Mobile App,24,Bác sĩ,Standard,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,1
+TX1002384,TCB10003,2025-08-07 07:10:18.510490,2353000,Thanh toán hóa đơn,Mobile App,36,Lập trình viên,Gold,QR Code,Thành công,Hà Nội,11
+TX1002385,TCB10119,2025-08-10 08:01:11.496681,17966000,Du lịch,Tại quầy (OTC),43,Kinh doanh tự do,Standard,Chuyển khoản (App),Thành công,Đồng Nai,18
+TX1002386,TCB10008,2025-08-10 08:40:16.882286,192000,Di chuyển,POS,53,Bác sĩ,Gold,QR Code,Thành công,Đồng Nai,11
+TX1002387,TCB10120,2025-08-10 21:57:00.928588,1456000,Mua sắm,ATM,29,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Hà Nội,10
+TX1002388,TCB10118,2025-08-11 19:29:51.102355,14797000,Mua sắm,Mobile App,24,Nhân viên văn phòng,Gold,Thẻ ghi nợ,Đang xử lý,Hải Phòng,2
+TX1002389,TCB10107,2025-08-11 22:15:33.063961,242000,Sức khỏe,Internet Banking,49,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Đà Nẵng,31
+TX1002390,TCB10084,2025-08-12 09:59:51.901067,233000,Sức khỏe,Mobile App,40,Lập trình viên,Priority,QR Code,Thành công,Hải Phòng,18
+TX1002391,TCB10056,2025-08-12 13:17:54.696941,72231000,Chuyển khoản,ATM,34,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,4
+TX1002392,TCB10047,2025-08-13 16:20:22.531192,677000,Ăn uống,Internet Banking,59,Giám đốc,Priority,QR Code,Thành công,TP. Hồ Chí Minh,9
+TX1002393,TCB10081,2025-08-14 05:10:57.357124,100000,Giải trí,Mobile App,31,Bác sĩ,Standard,QR Code,Thành công,Bình Dương,1
+TX1002394,TCB10057,2025-08-16 17:30:39.498723,131000,Sức khỏe,Internet Banking,18,Kỹ sư,Gold,QR Code,Thất bại,Quảng Ninh,1
+TX1002395,TCB10041,2025-08-17 20:28:50.055146,2829000,Ăn uống,Mobile App,59,Kinh doanh tự do,Priority,QR Code,Thành công,Bình Dương,21
+TX1002396,TCB10079,2025-08-18 20:06:32.852369,1269000,Di chuyển,Mobile App,44,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Bình Dương,5
+TX1002397,TCB10076,2025-08-19 06:13:41.443112,115000,Giải trí,Mobile App,51,Kinh doanh tự do,Gold,QR Code,Thành công,Hải Phòng,23
+TX1002398,TCB10075,2025-08-22 21:06:11.233556,18799000,Mua sắm,Internet Banking,51,Kỹ sư,Priority,Thẻ tín dụng,Thành công,Đà Nẵng,27
+TX1002399,TCB10099,2025-08-22 23:33:45.095520,226000,Di chuyển,Mobile App,51,Nội trợ,Gold,Chuyển khoản (App),Thất bại,Bình Dương,17
+TX1002400,TCB10128,2025-08-24 03:32:28.742387,20067000,Du lịch,POS,43,Giáo viên,Gold,Thẻ tín dụng,Thành công,Quảng Ninh,8
+TX1002401,TCB10133,2025-08-26 20:13:59.004161,29038000,Mua sắm,ATM,51,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,13
+TX1002402,TCB10132,2025-08-27 00:26:17.110470,1435000,Mua sắm,Tại quầy (OTC),49,Lập trình viên,Priority,Chuyển khoản (App),Thất bại,Cần Thơ,20
+TX1002403,TCB10098,2025-08-27 06:32:50.317927,356000,Ăn uống,Mobile App,19,Nội trợ,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,1
+TX1002404,TCB10027,2025-08-27 07:00:05.444879,16568000,Mua sắm,Mobile App,28,Kỹ sư,Gold,QR Code,Thành công,TP. Hồ Chí Minh,6
+TX1002405,TCB10109,2025-08-28 01:51:44.056325,90710000,Chuyển khoản,Mobile App,26,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,8
+TX1002406,TCB10082,2025-08-28 22:02:05.969347,52000,Di chuyển,Mobile App,62,Kinh doanh tự do,Priority,QR Code,Thành công,Bình Dương,7
+TX1002407,TCB10015,2025-08-29 16:39:48.069146,28271000,Chuyển khoản,Mobile App,43,Kỹ sư,Gold,Chuyển khoản (App),Thành công,Bình Dương,20
+TX1002408,TCB10097,2025-08-30 02:43:05.227449,2566000,Ăn uống,Internet Banking,64,Kỹ sư,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,31
+TX1002409,TCB10021,2025-08-30 12:53:34.744725,5718000,Thanh toán hóa đơn,Mobile App,60,Kinh doanh tự do,Priority,QR Code,Thành công,Cần Thơ,10
+TX1002410,TCB10067,2025-08-31 08:35:17.871262,1046000,Mua sắm,Tại quầy (OTC),19,Nhân viên văn phòng,Standard,Chuyển khoản (App),Thành công,Hà Nội,1
+TX1002411,TCB10033,2025-09-01 08:54:32.762443,15943000,Mua sắm,Mobile App,30,Nhân viên văn phòng,Priority,Chuyển khoản (App),Thành công,Đồng Nai,8
+TX1002412,TCB10057,2025-09-01 14:19:39.622519,584000,Thanh toán hóa đơn,ATM,18,Kỹ sư,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,1
+TX1002413,TCB10028,2025-09-02 20:45:21.086562,33561000,Du lịch,Mobile App,23,Giám đốc,Standard,QR Code,Thành công,Quảng Ninh,1
+TX1002414,TCB10049,2025-09-03 20:22:49.112937,10344000,Mua sắm,POS,59,Kinh doanh tự do,Priority,QR Code,Thành công,Đồng Nai,31
+TX1002415,TCB10058,2025-09-03 21:36:00.441025,408000,Di chuyển,Mobile App,63,Sinh viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,41
+TX1002416,TCB10069,2025-09-04 03:55:04.619693,10962000,Mua sắm,Mobile App,46,Giáo viên,Gold,Chuyển khoản (App),Thành công,Đồng Nai,15
+TX1002417,TCB10116,2025-09-04 19:08:24.276206,276000,Sức khỏe,Mobile App,53,Sinh viên,Priority,QR Code,Thành công,Hà Nội,18
+TX1002418,TCB10136,2025-09-06 07:27:50.313105,434000,Di chuyển,Internet Banking,25,Kỹ sư,Standard,QR Code,Thành công,TP. Hồ Chí Minh,3
+TX1002419,TCB10084,2025-09-06 08:14:25.702097,255000,Sức khỏe,POS,40,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Hải Phòng,18
+TX1002420,TCB10031,2025-09-08 21:49:21.163207,129000,Giải trí,Mobile App,50,Sinh viên,Gold,Thẻ ghi nợ,Thành công,Bình Dương,3
+TX1002421,TCB10055,2025-09-09 05:01:38.127189,42688000,Mua sắm,POS,34,Lập trình viên,Priority,QR Code,Thành công,Quảng Ninh,15
+TX1002422,TCB10135,2025-09-10 17:40:25.831528,276000,Giải trí,POS,58,Lập trình viên,Priority,QR Code,Thành công,Hải Phòng,8
+TX1002423,TCB10133,2025-09-11 02:22:23.573105,25697000,Chuyển khoản,Mobile App,51,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,13
+TX1002424,TCB10058,2025-09-11 07:28:39.565390,439000,Ăn uống,Mobile App,63,Sinh viên,Standard,QR Code,Thành công,TP. Hồ Chí Minh,41
+TX1002425,TCB10020,2025-09-12 06:25:33.998642,100000,Sức khỏe,POS,59,Giám đốc,Standard,Thẻ tín dụng,Thành công,Hải Phòng,3
+TX1002426,TCB10143,2025-09-12 17:08:11.454671,156000,Sức khỏe,ATM,57,Lập trình viên,Gold,Thẻ ghi nợ,Thành công,Bình Dương,9
+TX1002427,TCB10109,2025-09-14 02:17:21.706028,1720000,Chuyển khoản,Mobile App,26,Sinh viên,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,8
+TX1002428,TCB10102,2025-09-14 19:03:16.404198,2037000,Ăn uống,Mobile App,37,Kỹ sư,Priority,Chuyển khoản (App),Thành công,Đồng Nai,9
+TX1002429,TCB10133,2025-09-15 19:08:23.389040,2567000,Thanh toán hóa đơn,Mobile App,51,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,13
+TX1002430,TCB10008,2025-09-16 04:33:52.628105,2082000,Ăn uống,POS,53,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,11
+TX1002431,TCB10028,2025-09-16 11:37:18.617761,167000,Ăn uống,ATM,23,Giám đốc,Standard,Thẻ ghi nợ,Thành công,Quảng Ninh,1
+TX1002432,TCB10050,2025-09-17 21:15:38.833399,277000,Giáo dục,Mobile App,38,Giáo viên,Priority,Thẻ ghi nợ,Thành công,Quảng Ninh,12
+TX1002433,TCB10083,2025-09-18 21:14:07.656107,1835000,Ăn uống,ATM,53,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Bình Dương,27
+TX1002434,TCB10043,2025-09-19 05:05:28.391661,940000,Ăn uống,Internet Banking,58,Kinh doanh tự do,Standard,Chuyển khoản (App),Thành công,Hải Phòng,12
+TX1002435,TCB10002,2025-09-21 02:57:16.134951,126000,Sức khỏe,ATM,63,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,27
+TX1002436,TCB10044,2025-09-23 02:06:49.371066,325000,Di chuyển,ATM,38,Giám đốc,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,19
+TX1002437,TCB10030,2025-09-24 18:28:19.245777,305000,Di chuyển,POS,39,Giám đốc,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,17
+TX1002438,TCB10023,2025-09-25 07:11:30.003310,10922000,Mua sắm,POS,29,Sinh viên,Gold,Thẻ tín dụng,Thành công,Đồng Nai,10
+TX1002439,TCB10068,2025-09-27 19:12:10.279413,126536000,Chuyển khoản,Mobile App,50,Nhân viên văn phòng,Priority,Chuyển khoản (App),Thành công,Hà Nội,9
+TX1002440,TCB10039,2025-09-29 05:01:44.608123,85842000,Chuyển khoản,Internet Banking,19,Kinh doanh tự do,Standard,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,1
+TX1002441,TCB10042,2025-09-29 10:13:31.221837,119000,Giải trí,Mobile App,43,Nội trợ,Gold,Chuyển khoản (App),Thành công,Đồng Nai,4
+TX1002442,TCB10099,2025-09-30 14:07:33.569753,302000,Di chuyển,Mobile App,51,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Bình Dương,17
+TX1002443,TCB10124,2025-09-30 15:25:42.537098,35387000,Chuyển khoản,Mobile App,34,Nhân viên văn phòng,Gold,Chuyển khoản (App),Thành công,Đồng Nai,10
+TX1002444,TCB10140,2025-10-01 17:18:30.594213,100000,Giải trí,POS,60,Giáo viên,Standard,Thẻ tín dụng,Thành công,Quảng Ninh,23
+TX1002445,TCB10137,2025-10-01 21:47:42.716867,82889000,Chuyển khoản,POS,41,Nhân viên văn phòng,Gold,QR Code,Thành công,Cần Thơ,21
+TX1002446,TCB10041,2025-10-02 02:42:59.417887,629000,Ăn uống,Mobile App,59,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Bình Dương,21
+TX1002447,TCB10146,2025-10-02 16:21:25.981324,829000,Ăn uống,POS,61,Giám đốc,Gold,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,22
+TX1002448,TCB10090,2025-10-02 16:24:34.874703,18759000,Mua sắm,POS,57,Giáo viên,Priority,Thẻ ghi nợ,Thành công,Bình Dương,20
+TX1002449,TCB10025,2025-10-04 05:18:06.782527,1733000,Mua sắm,POS,33,Nội trợ,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,5
+TX1002450,TCB10072,2025-10-05 11:58:18.528466,2553000,Ăn uống,Tại quầy (OTC),56,Giáo viên,Gold,Thẻ tín dụng,Thành công,Bình Dương,27
+TX1002451,TCB10120,2025-10-08 07:07:59.895718,6873000,Thanh toán hóa đơn,Mobile App,29,Nội trợ,Gold,QR Code,Thành công,Hà Nội,10
+TX1002452,TCB10032,2025-10-08 12:40:25.508960,17421000,Mua sắm,Mobile App,57,Giám đốc,Priority,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,12
+TX1002453,TCB10043,2025-10-08 17:12:05.646336,100000,Sức khỏe,POS,58,Kinh doanh tự do,Standard,Thẻ tín dụng,Thành công,Hải Phòng,12
+TX1002454,TCB10088,2025-10-09 14:54:05.863853,54052000,Chuyển khoản,Mobile App,22,Bác sĩ,Gold,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,4
+TX1002455,TCB10134,2025-10-10 03:00:22.631720,5817000,Mua sắm,Mobile App,23,Kinh doanh tự do,Standard,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,3
+TX1002456,TCB10009,2025-10-10 20:10:33.310885,77000,Di chuyển,Mobile App,31,Kinh doanh tự do,Gold,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,10
+TX1002457,TCB10024,2025-10-11 09:04:06.736297,17564000,Mua sắm,Mobile App,54,Lập trình viên,Priority,QR Code,Thành công,TP. Hồ Chí Minh,25
+TX1002458,TCB10148,2025-10-11 09:15:00.925338,1663000,Ăn uống,Mobile App,18,Sinh viên,Standard,Chuyển khoản (App),Thành công,Hải Phòng,1
+TX1002459,TCB10005,2025-10-11 13:21:03.722303,62000,Ăn uống,Mobile App,25,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,4
+TX1002460,TCB10107,2025-10-13 07:25:52.941875,40082000,Mua sắm,ATM,49,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,31
+TX1002461,TCB10087,2025-10-13 15:37:17.494397,1376000,Thanh toán hóa đơn,Mobile App,28,Giám đốc,Standard,QR Code,Thành công,Đà Nẵng,4
+TX1002462,TCB10043,2025-10-15 06:44:31.866378,405000,Mua sắm,Mobile App,58,Kinh doanh tự do,Standard,Chuyển khoản (App),Thành công,Hải Phòng,12
+TX1002463,TCB10100,2025-10-15 12:14:20.010700,10628000,Mua sắm,POS,62,Giáo viên,Standard,Thẻ ghi nợ,Thành công,TP. Hồ Chí Minh,5
+TX1002464,TCB10029,2025-10-15 15:14:41.145382,349000,Ăn uống,ATM,48,Nội trợ,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,19
+TX1002465,TCB10066,2025-10-15 22:47:56.030151,23844000,Mua sắm,Mobile App,60,Sinh viên,Gold,Chuyển khoản (App),Thành công,TP. Hồ Chí Minh,26
+TX1002466,TCB10055,2025-10-16 20:12:06.705229,290000,Sức khỏe,POS,34,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Quảng Ninh,15
+TX1002467,TCB10137,2025-10-16 23:49:47.830445,157000,Giải trí,Mobile App,41,Nhân viên văn phòng,Gold,Thẻ ghi nợ,Thành công,Cần Thơ,21
+TX1002468,TCB10073,2025-10-17 16:54:26.472734,18110000,Mua sắm,Mobile App,21,Kinh doanh tự do,Gold,Thẻ ghi nợ,Thành công,Đà Nẵng,3
+TX1002469,TCB10013,2025-10-18 10:04:57.889105,17305000,Mua sắm,Mobile App,47,Kinh doanh tự do,Priority,Chuyển khoản (App),Thành công,Cần Thơ,26
+TX1002470,TCB10136,2025-10-18 12:23:15.982578,14325000,Mua sắm,Mobile App,25,Kỹ sư,Standard,QR Code,Thành công,TP. Hồ Chí Minh,3
+TX1002471,TCB10005,2025-10-20 14:27:57.813817,104000,Ăn uống,Internet Banking,25,Nhân viên văn phòng,Standard,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,4
+TX1002472,TCB10102,2025-10-21 20:56:35.398874,2478000,Chuyển khoản,Mobile App,37,Kỹ sư,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,9
+TX1002473,TCB10135,2025-10-21 23:34:27.452491,1967000,Ăn uống,Mobile App,58,Lập trình viên,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,8
+TX1002474,TCB10057,2025-10-22 08:28:03.063720,1750000,Ăn uống,POS,18,Kỹ sư,Gold,Thẻ ghi nợ,Thành công,Quảng Ninh,1
+TX1002475,TCB10120,2025-10-24 15:44:19.697774,1241000,Ăn uống,Mobile App,29,Nội trợ,Gold,Thẻ ghi nợ,Thành công,Hà Nội,10
+TX1002476,TCB10003,2025-10-24 17:01:40.731569,280000,Thanh toán hóa đơn,ATM,36,Lập trình viên,Gold,Thẻ ghi nợ,Thành công,Hà Nội,11
+TX1002477,TCB10106,2025-10-25 22:36:45.165086,56656000,Chuyển khoản,ATM,44,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Đà Nẵng,18
+TX1002478,TCB10089,2025-10-26 11:45:52.118719,3115000,Du lịch,POS,48,Bác sĩ,Gold,Thẻ ghi nợ,Thành công,Đồng Nai,1
+TX1002479,TCB10048,2025-10-28 00:02:30.992905,4574000,Thanh toán hóa đơn,Internet Banking,58,Bác sĩ,Gold,Thẻ tín dụng,Thành công,Cần Thơ,36
+TX1002480,TCB10054,2025-10-28 07:30:28.783362,100000,Giải trí,Internet Banking,61,Giáo viên,Standard,QR Code,Thành công,Cần Thơ,36
+TX1002481,TCB10087,2025-10-28 07:57:29.571711,1225000,Thanh toán hóa đơn,Mobile App,28,Giám đốc,Standard,Thẻ ghi nợ,Thành công,Đà Nẵng,4
+TX1002482,TCB10037,2025-10-31 18:24:51.670546,232000,Giải trí,POS,33,Sinh viên,Priority,Thẻ tín dụng,Thành công,TP. Hồ Chí Minh,2
+TX1002483,TCB10015,2025-11-01 11:41:51.129863,802000,Ăn uống,POS,43,Kỹ sư,Gold,QR Code,Thành công,Bình Dương,20
+TX1002484,TCB10051,2025-11-01 19:53:26.651094,26943000,Du lịch,POS,62,Nội trợ,Gold,Thẻ tín dụng,Thành công,Đồng Nai,18
+TX1002485,TCB10118,2025-11-02 08:22:53.692457,14794000,Mua sắm,Internet Banking,24,Nhân viên văn phòng,Gold,Thẻ tín dụng,Thành công,Hải Phòng,2
+TX1002486,TCB10070,2025-11-02 16:00:26.490661,551000,Di chuyển,Internet Banking,46,Sinh viên,Priority,Thẻ ghi nợ,Thành công,Đồng Nai,20
+TX1002487,TCB10092,2025-11-03 03:53:50.176164,6939000,Thanh toán hóa đơn,POS,29,Kinh doanh tự do,Priority,Thẻ ghi nợ,Thành công,Hải Phòng,7
+TX1002488,TCB10135,2025-11-04 12:50:52.762236,8976000,Du lịch,POS,58,Lập trình viên,Priority,Thẻ tín dụng,Thành công,Hải Phòng,8
+TX1002489,TCB10074,2025-11-04 20:24:42.301641,300000,Sức khỏe,Internet Banking,33,Nhân viên văn phòng,Priority,Thẻ tín dụng,Thành công,Quảng Ninh,13
+TX1002490,TCB10107,2025-11-05 06:01:41.176284,1534000,Ăn uống,Internet Banking,49,Lập trình viên,Priority,Chuyển khoản (App),Thành công,Đà Nẵng,31
+TX1002491,TCB10076,2025-11-07 15:17:59.926287,164000,Giáo dục,Internet Banking,51,Kinh doanh tự do,Gold,Thẻ ghi nợ,Thành công,Hải Phòng,23
+TX1002492,TCB10083,2025-11-08 09:50:04.006238,281000,Giải trí,POS,53,Lập trình viên,Priority,QR Code,Thành công,Bình Dương,27
+TX1002493,TCB10051,2025-11-10 12:03:18.366753,176000,Giải trí,Internet Banking,62,Nội trợ,Gold,QR Code,Thành công,Đồng Nai,18
+TX1002494,TCB10048,2025-11-11 01:13:02.513042,1187000,Ăn uống,Mobile App,58,Bác sĩ,Gold,Chuyển khoản (App),Thành công,Cần Thơ,36
+TX1002495,TCB10119,2025-11-11 01:32:27.433585,6568000,Mua sắm,Internet Banking,43,Kinh doanh tự do,Standard,QR Code,Thành công,Đồng Nai,18
+TX1002496,TCB10139,2025-11-12 04:33:54.093648,22663000,Mua sắm,Mobile App,39,Nhân viên văn phòng,Priority,Thẻ ghi nợ,Thành công,Quảng Ninh,14
+TX1002497,TCB10114,2025-11-12 05:14:32.855313,4837000,Thanh toán hóa đơn,POS,32,Nhân viên văn phòng,Standard,Thẻ ghi nợ,Thành công,Hải Phòng,4
+TX1002498,TCB10117,2025-11-12 12:08:52.322079,2195000,Ăn uống,Internet Banking,48,Kinh doanh tự do,Priority,QR Code,Thành công,Đồng Nai,30
+TX1002499,TCB10010,2025-11-12 15:09:19.791317,8809000,Mua sắm,Tại quầy (OTC),50,Kỹ sư,Gold,Chuyển khoản (App),Thành công,Quảng Ninh,16
