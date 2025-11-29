@@ -1,6 +1,13 @@
+# Fitness & Nutrition Analysis - Required Packages
+# Cài đặt: pip install -r requirements.txt
+
+# Data Processing
 numpy>=1.24.0
 pandas>=2.0.0
+
+# Visualization
 matplotlib>=3.7.0
 seaborn>=0.12.0
+
+# Dataset Download
 kagglehub>=0.2.0
-scikit-learn>=1.3.0
